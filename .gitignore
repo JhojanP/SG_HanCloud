@@ -1,0 +1,27 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuración del usuario
+*.user
+*.suo
+*.vcxproj.user
+*.sln.docstates
+
+# Archivos generados por Visual Studio
+.vscode/
+*.vs/
+*.idea/
+
+# Dependencias de NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Archivos de logs
+logs/
+*.log
+
+# Publicaciones y despliegues
+wwwroot/
+node_modules/
