@@ -18,6 +18,8 @@ obj/
 packages/
 project.lock.json
 
+# Dependencias de Libs
+libman.json
 # Archivos de logs
 logs/
 *.log
