@@ -23,5 +23,5 @@ logs/
 *.log
 
 # Publicaciones y despliegues
-wwwroot/
+wwwroot/lib/
 node_modules/
